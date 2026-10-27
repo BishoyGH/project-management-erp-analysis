@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "erpnext": {
+      "source": "membranedev/application-skills",
+      "sourceType": "github",
+      "skillPath": "skills/erpnext/SKILL.md",
+      "computedHash": "6f9fbc6f1461705ba1237f0c715bb41a9755613899df979a50d4e15bee1d5f37"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "computedHash": "b146008599c31057cef1c145774cea5d5afb30e8f43fa802e47a4b461419aaaf"
+    },
+    "git-commit": {
+      "source": "github/awesome-copilot",
+      "sourceType": "github",
+      "skillPath": "skills/git-commit/SKILL.md",
+      "computedHash": "78b6a33700091345cd449f9e3642ddd611b479b341efc9d6c750f7e04d15216a"
+    },
+    "odoo-19": {
+      "source": "unclecatvn/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/odoo-19.0/SKILL.md",
+      "computedHash": "8e3c48a64a5d959f562f04aafe42f8b50961520321ec10e12b3f8305072273ba"
+    },
+    "odoo-development": {
+      "source": "mindrally/skills",
+      "sourceType": "github",
+      "skillPath": "odoo-development/SKILL.md",
+      "computedHash": "3119e062de373eaa1d945f8aa7295206cf243243480bd1179546fbedfbd82bc1"
+    },
+    "project-management": {
+      "source": "miles990/claude-software-skills",
+      "sourceType": "github",
+      "skillPath": "tools-integrations/project-management/SKILL.md",
+      "computedHash": "3829ade4ba0155fe2dbd6f6e5bd0a4c081c37f1765712ab54eea733e9364cc2d"
+    }
+  }
+}

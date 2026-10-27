@@ -1,0 +1,8 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "plugins": ["superpowers@git+https://github.com/obra/superpowers.git"],
+  "skills": {
+    "include_paths": ["./.agents"]
+  },
+  "shell": "powershell"
+}
